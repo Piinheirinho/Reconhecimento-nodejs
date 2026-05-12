@@ -1,1 +1,4 @@
 # Reconhecimento-nodejs
+api-url-https://jzenrpimkqudhfotvphf.supabase.co/rest/v1/
+
+anon-eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6Imp6ZW5ycGlta3F1ZGhmb3R2cGhmIiwicm9sZSI6ImFub24iLCJpYXQiOjE3Nzg1ODkyODIsImV4cCI6MjA5NDE2NTI4Mn0.clpJ-hoj1SZfbmiTCLkZ7pUrRyYC5H25rQTdCrSQp3g
